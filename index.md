@@ -2,12 +2,17 @@
 layout: default
 ---
 
-# About me
+## About me
 
-- 👋 Hi, I’m @facundobianco (Facundo Bianco)
-- 👀 I’m interested in DevOps, Home-Automation / IoT, Hamradio & Security
-- 👔 [WIP] My resume is on [LinkedIn](https://www.linkedin.com/in/facundobianco)
+- 👋 Hi, I'm Facundo Bianco ([@facundobianco](https://github.com/facundobianco))
+- 👔 I work as a DevOps Manager, and my full resume (WiP) is on [LinkedIn](https://www.linkedin.com/in/facundobianco)
+- 📍 I live in Buenos Aires, Argentina (South America)
+- 👀 I’m interested in Security, Unity, Home-Automation / IoT and Hamradio
+
+## Social activities
+
 - ✏️  I write thoughts & tech tips in [Medium](https://medium.com/@facundobianco)
 - 💬 You can reach me at [Discord](https://discordapp.com/channels/@facundobianco)
-- 🔒 My OpenPGP key is [0x34FABE5A](https://github.com/facundobianco/facundobianco/blob/main/id_gpg.pub)
+- 🔒 My OpenPGP key is [0x34FABE5A](files/id_gpg.pub)
+- 📻 My QRA is LU7AND
 - 🕹️ And my favorite videogames genres are Metroidvania and Collectathon -- be friends in [Steam](https://steamcommunity.com/id/facundobianco/)
