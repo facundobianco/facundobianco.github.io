@@ -2,16 +2,15 @@
 layout: default
 ---
 
-![Banner](assets/banner.jpeg)
+![Banner](assets/banner.jpg)
 
 Hi, I'm Facundo Bianco. Welcome to my personal webpage.
 
 ## About me
 
-- 👔 I work as a DevOps Manager, and my full resume (WiP) is on [LinkedIn](https://www.linkedin.com/in/facundobianco)
+- 👔 I work as SRE and Technical Advisor, and my full resume (WiP) is on [LinkedIn](https://www.linkedin.com/in/facundobianco)
 - 🔨 My Github account is [@facundobianco](https://github.com/facundobianco)
 - 📍 I live in Buenos Aires, Argentina
-- 👀 I’m interested in Security, Unity, Home-Automation / IoT and Hamradio
 
 ## Social activities
 
