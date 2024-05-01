@@ -8,14 +8,12 @@ Hi, I'm Facundo Bianco. Welcome to my personal webpage.
 
 ## About me
 
-- 👔 I work as SRE and Technical Advisor, and my full resume (WiP) is on [LinkedIn](https://www.linkedin.com/in/facundobianco)
-- 🔨 My Github account is [@facundobianco](https://github.com/facundobianco)
-- 📍 I live in Buenos Aires, Argentina
+- :necktie: I work as SRE and Technical Advisor, and my full resume (WiP) is on [LinkedIn](https://www.linkedin.com/in/facundobianco)
+- :hammer: My Github account is [@facundobianco](https://github.com/facundobianco)
+- :mailbox_with_mail: You can reach me <a class="js-MailTo" data-mailto-user="hi">here<a/>
+- :round_pushpin: I live in Buenos Aires, Argentina
 
 ## Social activities
 
-- ✏️  I write thoughts & tech tips in [Medium](https://medium.com/@facundobianco)
-- 💬 You can reach me at [Discord](https://discordapp.com/channels/@facundobianco)
-- 🔒 My OpenPGP key is [0x34FABE5A](files/id_gpg.pub)
-- 📻 My QRA is LU7AND
-- 🕹️ And my favorite videogames genres are Metroidvania and Collectathon -- be friends in [Steam](https://steamcommunity.com/id/facundobianco/)
+- :pencil: I write thoughts & tech tips in [Medium](https://medium.com/@facundobianco)
+- :joystick: My favorite videogames genres are Metroidvania and Collectathon -- be friends in [Steam](https://steamcommunity.com/id/facundobianco/)
